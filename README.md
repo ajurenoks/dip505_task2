@@ -24,13 +24,9 @@
    - Prepare a short presentation summarizing your findings and evaluation to share with your class or study group.
    - Use visual aids such as PowerPoint slides to enhance the effectiveness of your presentation.
 
-6. **Reflection**:
-   - Conclude your task with a reflection on what you have learned about the importance of formatting guidelines in academic writing and how this knowledge might benefit you in future scholarly endeavors.
-
 #### Deliverables:
-- A comparative analysis report (5-10 pages).
-- A presentation file (10-15 slides).
-- A reflection write-up (1 page).
+- A comparative analysis report (1 - 2 pages).
+- A presentation file (3-5 slides).
 
 #### Evaluation Criteria:
 - Thoroughness and accuracy of research.
